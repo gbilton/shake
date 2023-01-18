@@ -1,0 +1,5 @@
+[default]
+MONGO_USER = "gbilton"
+MONGO_HOST = "cluster0.ywtgcf8.mongodb.net/test"
+MONGO_DATABASE = "shake"
+
