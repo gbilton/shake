@@ -7,7 +7,7 @@ This project is a task for the interviewing process of Shake. The FastAPI framew
 
 ## Installing
 1. Create a virtual environment: `python -m venv .venv`
-2. Activate the virtual environment: `. ./venv/bin/activate`
+2. Activate the virtual environment: `. ./.venv/bin/activate`
 3. Install all dependencies: `pip install -r requirements.txt`
 
 ## Usage
