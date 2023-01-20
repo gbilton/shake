@@ -1,4 +1,4 @@
-.secrets.toml
+# .secrets.toml
 .venv
 .vscode
 .mypy_cache
